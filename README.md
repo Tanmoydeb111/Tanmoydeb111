@@ -3,7 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin usser name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin usser name" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tanmoy-deb-415aab221" target="blank"><img align="center" src="![image](https://github.com/Tanmoydeb111/Tanmoydeb111/assets/93857388/8301cbd7-89ec-4b8a-9770-ea83a52bb1ec)
+" alt="linkedin usser name" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
